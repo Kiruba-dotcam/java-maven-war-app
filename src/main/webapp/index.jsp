@@ -5,7 +5,7 @@
 </head>
 <body>
 	<h1>Hello World!</h1>
-	<h1>DevOps Training - Hello Kiruba 2025 feb</h1>
+	<h1>DevOps Training - Hello Kiruba 2025 feb 07</h1>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
